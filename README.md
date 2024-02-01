@@ -26,8 +26,6 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Deployed sites
 
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
 🌐 [Live site](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-starter-code/)
 
 🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-starter-code)
