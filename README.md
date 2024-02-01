@@ -26,9 +26,9 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Deployed sites
 
-🌐 [Live site](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-starter-code/)
+🌐 [Live site](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-solution/.)
 
-🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-starter-code)
+🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-solution)
 
 ## Internal resources
 
