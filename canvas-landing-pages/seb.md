@@ -1,1 +1,1 @@
-# ![Javascript's Audio Class](../assets/tktk-hero.png)
+# ![Playing Audio in the Browser](../assets/tktk-hero.png)

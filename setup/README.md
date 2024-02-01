@@ -1,4 +1,4 @@
-# ![Javascript's Audio Class - Setup](./assets/hero.png)
+# ![Playing Audio in the Browser - Setup](./assets/hero.png)
 
 ## Setup
 

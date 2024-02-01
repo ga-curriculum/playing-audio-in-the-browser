@@ -1,4 +1,4 @@
-# ![Javascript's Audio Class - References](./assets/hero.png)
+# ![Playing Audio in the Browser - References](./assets/hero.png)
 
 ## Lesson references
 
