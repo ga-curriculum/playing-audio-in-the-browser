@@ -16,8 +16,8 @@ tktk Write a short but descriptive summary of the content in this module.
 | ------ |:----------:|:-----:| ------ |
 | [Setup](./setup/README.md)                                 | -- | -- | Setting up the development environment  |
 | [The Audio Class](./the-audio-class/README.md)             | -- | -- | Using the Audio class to generate audio on click. |
-| [Using Event Bubbling](./level-up/using-event-bubbling.md) | -- | -- | Using event bubbling to make DRY-er code.  |
-| [The Audio Element](./level-up/the-audio-element.md)       | -- | -- | The Audio element and further learning. |
+| [Using Event Bubbling](./using-event-bubbling/README.md) | -- | -- | Using event bubbling to make DRY-er code.  |
+| [The Audio Element](./the-audio-element/README.md)       | -- | -- | The Audio element and further learning. |
 | **Total content**                                          | -- | -- |                                         |
 
 ## References
