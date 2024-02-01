@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Javascript's Audio Class](./assets/tktk-hero.png)
 
 ## About
 
@@ -6,27 +6,19 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Intro to HTML
+- Intro to the DOM
+- DOM Events
 
 ## Content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                               | -- | -- | Setting up the development environment  |
-| [Concepts](./concepts/README.md)                         | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered                     |
-| **Total content**                                        | -- | -- |                                         |
-
-## Level Up content
-
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-04/README.md) | -- | -- | tktk skills covered                     |
-| **Total Level Up content**                               | -- | -- |                                         |
+| [Setup](./setup/README.md)                                 | -- | -- | Setting up the development environment  |
+| [The Audio Class](./the-audio-class/README.md)             | -- | -- | Using the Audio class to generate audio on click. |
+| [Using Event Bubbling](./level-up/using-event-bubbling.md) | -- | -- | Using event bubbling to make DRY-er code.  |
+| [The Audio Element](./level-up/the-audio-element.md)       | -- | -- | The Audio element and further learning. |
+| **Total content**                                          | -- | -- |                                         |
 
 ## References
 

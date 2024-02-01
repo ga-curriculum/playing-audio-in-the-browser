@@ -1,13 +1,10 @@
-# ![[tktk Module Name] - References](./assets/hero.png)
+# ![Javascript's Audio Class - References](./assets/hero.png)
 
 ## Lesson references
 
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
+- [HTMLAudioElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)
+- [HTMLMediaElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement)
 
 ## Level Up references
 
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
+- [Audio HTML Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
