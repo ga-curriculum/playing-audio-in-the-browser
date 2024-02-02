@@ -10,8 +10,8 @@ In this lesson, we'll be using the [built-in JavaScript Audio class in conjuncti
 
 Playing audio in the browser is straightforward, thanks to:
 
-1. HTML5’s `<audio>` element which can be added to any webpage (multiple instances if need be), and
-2. the *HTMLAudioElement* DOM interface that can be used to create an audio element in code using JS.
+1. HTML5’s `<audio>` element, which can be added to any webpage (multiple instances if need be).
+2. The *HTMLAudioElement* DOM interface that can be used to create an audio element in code using JS.
 
 ## The `Audio` Class
 
@@ -19,13 +19,13 @@ The `Audio` class allows us to create new instances (objects) that will play the
 
 Let's start with the cat. The first thing we'll do is set up a cached element reference for the cat image:
 
-```jsx
+```js
 const catImg = document.querySelector('#cat')
 ```
 
-To test out our cached element, we'll attach an event listener to the reference we just set up (`catImg`) and start with a simple `console.log()` when the image is clicked:
+To test out our cached element, we'll attach an event listener to the reference we just set up (`catImg`) and `console.log()` the event `target` when the image is clicked:
 
-```jsx
+```js
 catImg.addEventListener("click", (evt) => {
   console.log(evt.target)
 })
@@ -33,13 +33,13 @@ catImg.addEventListener("click", (evt) => {
 
 In order to set up a new `HTMLAudioElement`, all we need to do is initialize a variable using the `new` keyword and the **built-in JavaScript `Audio` class**, with the following syntax:
 
-```jsx
+```js
 const catSays = new Audio("../audio/cat.mp3")
 ```
 
 Once we've done that, `catSays` is a new instance of the `Audio` class, which has all of the built-in values and methods of the Audio class available. We can play the audio file by invoking the `play()` method!  **Don't forget to adjust the volume so you don't melt your user's ears:**
 
-```jsx
+```js
 catImg.addEventListener("click", (evt) => {
   catSays.volume = .05
   catSays.play()
@@ -49,7 +49,6 @@ catImg.addEventListener("click", (evt) => {
 Try clicking on the cat image now!
 
 The DOM element being created is an instance of [**HTMLAudioElement**](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement).
-
 
 However, it inherits its useful properties & methods from the [**HTMLMediaElement**](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement) class.
 

@@ -1,4 +1,4 @@
-# ![Using JavaScript Classes - Level Up - Event Bubbling](./assets/hero.png)
+# ![Using JavaScript Classes - Event Bubbling](./assets/hero.png)
 
 In the **`💪 You Do`** in this lesson, you were tasked with using the JavaScript built-in `Audio` class to add sounds to the remaining images.
 
@@ -8,13 +8,13 @@ Let's use what we've learned about DOM manipulation to have JavaScript do all th
 
 Start by adding a cached element reference for the  **`<div id="notCat">` 'container' element**:
 
-```jsx
+```js
 const notCatDiv = document.querySelector("#not-cat")
 ```
 
 Then, we'll add an event listener to it! Because of *event-bubbling*, if we attach an event handler to an element, any time we click *any* of the elements within, our callback function will be executed!  
 
-```jsx
+```js
 notCatDiv.addEventListener("click", (evt) => {
   if (evt.target.id !== "cat") {
     const audioElement = new Audio(`../audio/${evt.target.id}.mp3`)

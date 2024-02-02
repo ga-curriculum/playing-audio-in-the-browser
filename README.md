@@ -14,10 +14,10 @@ tktk Write a short but descriptive summary of the content in this module.
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                                 | -- | -- | Setting up the development environment  |
+| [Setup](./setup/README.md)                                 | -- | -- | Setting up the development environment.  |
 | [The Audio Class](./the-audio-class/README.md)             | -- | -- | Using the Audio class to generate audio on click. |
-| [Using Event Bubbling](./level-up/using-event-bubbling.md) | -- | -- | Using event bubbling to make DRY-er code.  |
-| [The Audio Element](./level-up/the-audio-element.md)       | -- | -- | The Audio element and further learning. |
+| [Using Event Bubbling](./using-event-bubbling/README.md) | -- | -- | Using event bubbling to make DRY-er code.  |
+| [The Audio Element](./the-audio-element/README.md)       | -- | -- | The Audio element and further learning. |
 | **Total content**                                          | -- | -- |                                         |
 
 ## References
@@ -26,11 +26,9 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Deployed sites
 
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
+🌐 [Live site](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-solution/.)
 
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
+🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-solution)
 
 ## Internal resources
 
