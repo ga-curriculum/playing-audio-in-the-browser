@@ -1,5 +1,7 @@
 # ![Using JavaScript Classes - Event Bubbling](./assets/hero.png)
 
+**Learning objective:** By the end of this lesson, students will be able to effectively apply JavaScript classes and event bubbling concepts to enhance interactivity in web applications.
+
 In the **`💪 You Do`** in this lesson, you were tasked with using the JavaScript built-in `Audio` class to add sounds to the remaining images.
 
 You could have repeated the same process by hard-coding cached element references for each and every image on the page, but that wouldn't be very **DRY**.
