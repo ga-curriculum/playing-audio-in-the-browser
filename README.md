@@ -2,7 +2,7 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+In this module, you'll get an introduction to the world of audio in web development. Learn to use the JavaScript `Audio` class along with the HTML `<audio>` element to craft dynamic, engaging audio experiences for web applications. Suitable for intermediate Javascript developers with an understanding of DOM manipulation, this module equips students with the skills to bring web projects to life with sound.
 
 ## Prerequisites
 
@@ -24,11 +24,15 @@ tktk Write a short but descriptive summary of the content in this module.
 
 📖 [Reference Materials](./references/README.md)
 
+## Starter code
+
+🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-starter-code)
+
 ## Deployed sites
 
 🌐 [Live site](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-solution/.)
 
-🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-solution)
+🐙 [Solution Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-solution)
 
 ## Internal resources
 
