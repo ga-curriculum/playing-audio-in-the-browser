@@ -15,7 +15,7 @@ In this module, you'll get an introduction to the world of audio in web developm
 
 ## References
 
-📖 [Reference Materials](./references/README.md)
+📖 [Reference Materials](../references/README.md)
 
 ## Starter code
 
