@@ -1,5 +1,7 @@
 # ![Using JavaScript Classes - The Audio Element](./assets/hero.png)
 
+**Learning objective:** By the end of this lesson, students will have a comprehensive understanding of the <audio> HTML element.
+
 ## The `<audio>` element
 
 The `<audio>` element can be used in the webpage in other ways, for example, to play a background audio clip in a continuous loop.
