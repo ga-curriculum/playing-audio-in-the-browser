@@ -1,4 +1,4 @@
-# ![Playing Audio in the Browser](../assets/tktk-hero.png)
+# ![Playing Audio in the Browser](../assets/hero.png)
 
 ## About
 

@@ -1,4 +1,4 @@
-# ![Using JavaScript Classes - The Audio Element](./assets/hero.png)
+# ![Playing Audio in the Browser - The Audio Element](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will have a comprehensive understanding of the `<audio>` HTML element.
 
