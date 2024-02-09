@@ -1,4 +1,4 @@
-# ![Using JavaScript Classes - Event Bubbling](./assets/hero.png)
+# ![Playing Audio in the Browser - Event Bubbling](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to effectively apply JavaScript classes and event bubbling concepts to enhance interactivity in web applications.
 

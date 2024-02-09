@@ -1,4 +1,4 @@
-# ![Using JavaScript Classes - The Audio Class](./assets/hero.png)
+# ![Playing Audio in the Browser - The Audio Class](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to make use of a built-in JavaScript class and successfully add audio to an application.
 
@@ -52,7 +52,7 @@ The DOM element being created is an instance of [**HTMLAudioElement**](https://d
 
 However, it inherits its useful properties & methods from the [**HTMLMediaElement**](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement) class.
 
-![Object Hierarchy](./assets/object-heirarchy.png)
+![Object Hierarchy](./assets/object-hierarchy.png)
 
 The object hierarchy of the `HTMLAudioElement` provides a great example of the power of inheritance in Object Oriented Programming.
 
