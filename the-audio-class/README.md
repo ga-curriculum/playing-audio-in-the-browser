@@ -56,7 +56,7 @@ However, it inherits its useful properties & methods from the [**HTMLMediaElemen
 
 The object hierarchy of the `HTMLAudioElement` provides a great example of the power of inheritance in Object Oriented Programming.
 
-## 💪 You Do
+## 🎓 You Do
 
 Now that the cat makes sounds, we need to get the other animals doing the same. That will be up to you.
 
