@@ -34,7 +34,7 @@ catImg.addEventListener("click", (evt) => {
 In order to set up a new `HTMLAudioElement`, all we need to do is initialize a variable using the `new` keyword and the **built-in JavaScript `Audio` class**, with the following syntax:
 
 ```js
-const catSays = new Audio("../audio/cat.mp3")
+const catSays = new Audio('../assets/audio/cat.mp3')
 ```
 
 Once we've done that, `catSays` is a new instance of the `Audio` class, which has all of the built-in values and methods of the Audio class available. We can play the audio file by invoking the `play()` method!  **Don't forget to adjust the volume so you don't melt your user's ears:**
