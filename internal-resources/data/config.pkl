@@ -21,7 +21,6 @@ courses {
     name = "fallback"
     microlessons {
       // add microlessons here, in the order they should be delivered
-      mls.concepts
       mls.setup
       mls.theAudioClass
       mls.usingEventBubbling
@@ -31,7 +30,6 @@ courses {
   new {
     name = "seb"
     microlessons {
-      mls.concepts
       mls.setup
       mls.theAudioClass
       mls.usingEventBubbling

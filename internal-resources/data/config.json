@@ -14,12 +14,6 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
           "friendlyName": "Setup",
           "dirName": "setup",
           "type": "Content",
@@ -70,12 +64,6 @@
       "name": "seb",
       "logoUrl": "",
       "microlessons": [
-        {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
-          "type": "Content",
-          "videoUrl": ""
-        },
         {
           "friendlyName": "Setup",
           "dirName": "setup",
