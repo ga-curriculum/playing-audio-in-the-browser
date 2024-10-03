@@ -1,4 +1,7 @@
-# ![Playing Audio in the Browser - The Audio Class](./assets/hero.png)
+<h1>
+  <span class="headline">Playing Audio in the Browser</span>
+  <span class="subhead">The Audio Class</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to make use of a built-in JavaScript class and successfully add audio to an application.
 

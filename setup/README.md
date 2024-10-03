@@ -1,4 +1,7 @@
-# ![Playing Audio in the Browser - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">Playing Audio in the Browser</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 ## Setup
 
