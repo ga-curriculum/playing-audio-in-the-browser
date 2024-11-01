@@ -34,7 +34,7 @@ In this module, you'll get an introduction to the world of audio in web developm
 
 ### Deployed sites
 
-🌐 [Live site](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-solution/.)
+🌐 [Live Example](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-solution/)
 
 🐙 [Solution Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-solution)
 
