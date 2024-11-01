@@ -1,4 +1,7 @@
-# ![Playing Audio in the Browser - The Audio Element](./assets/hero.png)
+<h1>
+  <span class="headline">Playing Audio in the Browser</span>
+  <span class="subhead">The Audio Element</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will have a comprehensive understanding of the `<audio>` HTML element.
 

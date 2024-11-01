@@ -1,4 +1,7 @@
-# ![Playing Audio in the Browser](../assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Playing Audio in the Browser</span>
+</h1>
 
 ## About
 
@@ -6,12 +9,12 @@ In this module, you'll get an introduction to the world of audio in web developm
 
 ## Content
 
-| Lesson | Skills |
-| ------ | ------ |
-| [Setup](../setup/README.md)                                 | Setting up the development environment.  |
-| [The Audio Class](../the-audio-class/README.md)             | Using the Audio class to generate audio on click. |
-| [Using Event Bubbling](../using-event-bubbling/README.md) | Using event bubbling to make DRY-er code.  |
-| [The Audio Element](../the-audio-element/README.md)       | The Audio element and further learning. |
+| Lesson                                                    | Skills                                            |
+| --------------------------------------------------------- | ------------------------------------------------- |
+| [Setup](../setup/README.md)                               | Setting up the development environment.           |
+| [The Audio Class](../the-audio-class/README.md)           | Using the Audio class to generate audio on click. |
+| [Using Event Bubbling](../using-event-bubbling/README.md) | Using event bubbling to make DRY-er code.         |
+| [The Audio Element](../the-audio-element/README.md)       | The Audio element and further learning.           |
 
 ## References
 

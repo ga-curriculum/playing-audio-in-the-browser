@@ -1,0 +1,32 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+theAudioClass = new Template.Microlesson {
+  friendlyName = "The Audio Class"
+  dirName = "the-audio-class"
+  type = "Content"
+  videoUrl = ""
+}
+
+usingEventBubbling = new Template.Microlesson {
+  friendlyName = "Using Event Bubbling"
+  dirName = "using-event-bubbling"
+  type = "Content"
+  videoUrl = ""
+}
+
+theAudioElement = new Template.Microlesson {
+  friendlyName = "The Audio Element"
+  dirName = "the-audio-element"
+  type = "Content"
+  videoUrl = ""
+}
+
