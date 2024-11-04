@@ -32,13 +32,15 @@ In this module, you'll get an introduction to the world of audio in web developm
 
 🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-starter-code)
 
+### Solution code
+
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-solution)
+
 ### Deployed sites
 
 🌐 [Live Example](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-solution/)
 
-🐙 [Solution Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-solution)
-
-### Github Pages Sites
+### Course landing pages
 
 - [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser/canvas-landing-pages/fallback)
 - [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser/canvas-landing-pages/seb)
