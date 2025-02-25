@@ -22,7 +22,7 @@ Then, we'll add an event listener to it! Because of *event-bubbling*, if we atta
 ```js
 notCatDiv.addEventListener("click", (evt) => {
   if (evt.target.id !== "cat") {
-    const audioElement = new Audio(`../audio/${evt.target.id}.mp3`)
+    const audioElement = new Audio(`../assets/audio/${evt.target.id}.mp3`)
     audioElement.volume = .05
     audioElement.play()
   }
