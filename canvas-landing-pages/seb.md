@@ -22,7 +22,7 @@ In this module, you'll get an introduction to the world of audio in web developm
 
 ## Starter code
 
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/playing-audio-in-the-browser-starter-code)
+🟢 [Starter code](https://github.com/ga-curriculum/playing-audio-in-the-browser-starter-code-v2)
 
 ## Deployed site
 
